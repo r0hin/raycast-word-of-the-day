@@ -1,2 +1,3 @@
-# raycast-word-of-the-day
-Raycyast word of
+# Word of the Day
+
+UrbanDictionary's Word of the Day
